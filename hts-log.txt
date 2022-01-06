@@ -1,0 +1,53 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 06 Jan 2022 18:10:03 at https://www.nexuscrypto.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.nexuscrypto.com -O1 "C:\My Web Sites\https___www.nexuscrypto.com_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:10:05	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.nexuscrypto.com/robots.txt (from primary/primary)
+18:10:18	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.nexuscrypto.com/about (from https://www.nexuscrypto.com/)
+18:10:19	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.nexuscrypto.com/contact (from https://www.nexuscrypto.com/)
+18:10:19	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.nexuscrypto.com/blog/recognizing-a-scraping-scam (from https://www.nexuscrypto.com/)
+18:10:20	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.nexuscrypto.com/legal/privacy-policy (from https://www.nexuscrypto.com/)
+18:10:20	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.nexuscrypto.com/legal/terms-of-service (from https://www.nexuscrypto.com/)
+18:10:23	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.nexuscrypto.com/blog-category/nerd-stuff (from https://www.nexuscrypto.com/blog)
+18:10:23	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.nexuscrypto.com/blog-category/security (from https://www.nexuscrypto.com/blog)
+18:10:23	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.nexuscrypto.com/blog-category/announcements (from https://www.nexuscrypto.com/blog)
+18:10:23	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.nexuscrypto.com/contact (from https://www.nexuscrypto.com/)
+18:10:23	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.nexuscrypto.com/team/nexus-staff (from https://www.nexuscrypto.com/blog/how-to-spot-a-rug-pull)
+18:10:23	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.nexuscrypto.com/team/dan-hazlett (from https://www.nexuscrypto.com/blog/15-common-crypto-terms)
+18:10:24	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.nexuscrypto.com/legal/privacy-policy (from https://www.nexuscrypto.com/)
+18:10:24	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.nexuscrypto.com/legal/terms-of-service (from https://www.nexuscrypto.com/)
+18:10:25	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.nexuscrypto.com/team/trey-wilson (from https://www.nexuscrypto.com/about)
+18:10:25	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.nexuscrypto.com/team/krystian-szorc (from https://www.nexuscrypto.com/about)
+18:10:26	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.nexuscrypto.com/team/zak-malik (from https://www.nexuscrypto.com/about)
+18:10:26	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.nexuscrypto.com/team/guilherme-uzeda (from https://www.nexuscrypto.com/about)
+18:10:26	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.nexuscrypto.com/team/jean-patrick-smith (from https://www.nexuscrypto.com/about)
+18:10:27	Warning: 	Retry after error 502 () at link https://www.nexuscrypto.com/blog-category/nerd-stuff (from https://www.nexuscrypto.com/blog)
+18:10:27	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.nexuscrypto.com/blog-category/security (from https://www.nexuscrypto.com/blog)
+18:10:27	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.nexuscrypto.com/blog-category/announcements (from https://www.nexuscrypto.com/blog)
+18:10:27	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.nexuscrypto.com/contact (from https://www.nexuscrypto.com/)
+18:10:27	Warning: 	Retry after error 502 () at link https://www.nexuscrypto.com/team/nexus-staff (from https://www.nexuscrypto.com/blog/how-to-spot-a-rug-pull)
+18:10:27	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.nexuscrypto.com/team/dan-hazlett (from https://www.nexuscrypto.com/blog/15-common-crypto-terms)
+18:10:28	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.nexuscrypto.com/legal/privacy-policy (from https://www.nexuscrypto.com/)
+18:10:28	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.nexuscrypto.com/legal/terms-of-service (from https://www.nexuscrypto.com/)
+18:10:28	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.nexuscrypto.com/team/trey-wilson (from https://www.nexuscrypto.com/about)
+18:10:29	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.nexuscrypto.com/team/krystian-szorc (from https://www.nexuscrypto.com/about)
+18:10:29	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.nexuscrypto.com/team/zak-malik (from https://www.nexuscrypto.com/about)
+18:10:29	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.nexuscrypto.com/team/guilherme-uzeda (from https://www.nexuscrypto.com/about)
+18:10:30	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.nexuscrypto.com/team/jean-patrick-smith (from https://www.nexuscrypto.com/about)
+18:10:30	Error: 	"" (502) after 2 retries at link https://www.nexuscrypto.com/blog-category/nerd-stuff (from https://www.nexuscrypto.com/blog)
+18:10:30	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.nexuscrypto.com/blog-category/security (from https://www.nexuscrypto.com/blog)
+18:10:30	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.nexuscrypto.com/blog-category/announcements (from https://www.nexuscrypto.com/blog)
+18:10:30	Error: 	"" (502) after 2 retries at link https://www.nexuscrypto.com/team/nexus-staff (from https://www.nexuscrypto.com/blog/how-to-spot-a-rug-pull)
+18:10:30	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.nexuscrypto.com/team/dan-hazlett (from https://www.nexuscrypto.com/blog/15-common-crypto-terms)
+18:10:30	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.nexuscrypto.com/team/trey-wilson (from https://www.nexuscrypto.com/about)
+18:10:30	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.nexuscrypto.com/team/krystian-szorc (from https://www.nexuscrypto.com/about)
+18:10:30	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.nexuscrypto.com/team/zak-malik (from https://www.nexuscrypto.com/about)
+18:10:30	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.nexuscrypto.com/team/guilherme-uzeda (from https://www.nexuscrypto.com/about)
+18:10:30	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.nexuscrypto.com/team/jean-patrick-smith (from https://www.nexuscrypto.com/about)
+
+HTTrack Website Copier/3.49-2 mirror complete in 27 seconds : 77 links scanned, 35 files written (3678461 bytes overall) [2502652 bytes received at 92690 bytes/sec], 1840851 bytes transferred using HTTP compression in 10 files, ratio 22%, 5.2 requests per connection
+(14 errors, 28 warnings, 0 messages)
